@@ -1,3 +1,3 @@
 # Redirect default Netlify subdomain to primary domain
-http://kind-morse-8c96f6.netlify.com/* http://chattanoogarail.org/:splat 301!
-https://kind-morse-8c96f6.netlify.com/* https://chattanoogarail.org/:splat 301!
+http://goofy-curran-1346da.netlify.com/* http://portland18xx.com/:splat 301!
+https://goofy-curran-1346da.netlify.com/* https://portland18xx.com/:splat 301!
